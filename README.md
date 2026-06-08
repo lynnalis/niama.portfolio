@@ -58,5 +58,5 @@
 ## 📫 Connect with Me
 
 - 📧 **Email:** niama.eddarbali@gmail.com
-- 💼 **LinkedIn:** [/in/niama-eddarbali](linkedin.com/in/niama-eddarbali-60a6a9292)
+- 💼 **LinkedIn:** [/in/niama-eddarbali-60a6a9292](linkedin.com/in/niama-eddarbali-60a6a9292)
 - 🐙 **GitHub:** [github.com/lynnalis](https://github.com/lynnalis/)
